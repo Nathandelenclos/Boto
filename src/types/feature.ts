@@ -1,7 +1,6 @@
-import {Command, Event} from "@types";
+import {Command} from "@types";
 
 export type Feature = {
     commands: Command[];
-    events: Event[];
     name: string;
 }
