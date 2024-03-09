@@ -4,5 +4,4 @@ import {commands} from "./commands";
 export const Minecraft: Feature = {
     name: "Minecraft",
     commands,
-    events: []
 }
